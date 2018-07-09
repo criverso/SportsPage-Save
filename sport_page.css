@@ -1,0 +1,21 @@
+.jumbotron{
+    background-image: url(http://www.nflview.com/nfl_wallpaper/houston_texans_football_team_wallpaper_yvt2.jpg);
+    height: 360px;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+ul{
+    float: left;
+}

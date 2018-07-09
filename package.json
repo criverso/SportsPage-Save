@@ -1,0 +1,25 @@
+{
+  "name": "sportspage",
+  "version": "1.0.0",
+  "description": "houston texans ",
+  "main": "sports_page.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criverso/sportspage.git"
+  },
+  "author": "Cesare Riverso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/criverso/sportspage/issues"
+  },
+  "homepage": "https://github.com/criverso/sportspage#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3",
+    "sweetalert2": "^7.24.4"
+  }
+}
